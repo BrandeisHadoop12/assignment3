@@ -17,7 +17,6 @@ import org.apache.mahout.clustering.kmeans.KMeansDriver;
 import org.apache.mahout.clustering.kmeans.RandomSeedGenerator;
 import org.apache.mahout.common.distance.EuclideanDistanceMeasure;
 
-
 public class KMeansRecommender {
 	
     public static void main(String[] args) {
